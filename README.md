@@ -1,8 +1,8 @@
-# Hello, My name is Daniel 👋
+# Hello 👋
 
 ## I am a Full Stack Software Developer
 
-I'm Daniel Espinal. I am a Full Stack Software Developer who recently graduated from Fullstack Academy.
+My name is Daniel Espinal. I am a software developer with over 550 hours of creating and maintaining single-page web applications using the lastest industry tech. I have effectively collabrated with mulitple software development teams in constructing both the frontend and backend components of modern websites. I will always be learning, and I am eager to meet and work with professional software developers and innovative teams in the industry.
 
 ### Connect with me:
 
