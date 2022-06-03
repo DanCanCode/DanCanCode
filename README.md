@@ -14,10 +14,3 @@ My name is Daniel Espinal. I am a software developer with over 550 hours of crea
 <img align="left" alt="React" width="26px" src="./img/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="./img/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="./img/java-plain.svg" style="padding-right:10px;" />
-
-<br />
-<br />
-
-### Connect with me:
-
-[<img align="left" alt="LinkedIn" width="26px" src="./img/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/danieleespinal/)
