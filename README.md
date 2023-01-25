@@ -34,7 +34,7 @@ I am a self-driven Frontend Engineer located in New York. Since I was a kid, I l
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## 📈 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanCanCode)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanCanCode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![DanCanCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanCanCode)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect With Me
