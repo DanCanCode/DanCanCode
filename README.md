@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://dancancode.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/98125907/214480974-02be846c-a30c-42f9-96e2-865b5a322b1e.png" alt="my banner"></a>
 </p>
-<h3 align="center">
+<h2 align="center">
 Hi there, I'm <a href="https://dancancode.dev/" target="_blank" rel="noreferrer">Daniel</a> 👋 👨‍💻
-</h3>
+</h2>
 <p align="center">
 I am a self-driven Frontend Engineer located in New York. Since I was a kid, I loved building computers and working on small projects for my friends. Since then, I have had the pleasure of working with multiple software engineers to develop and deploy modern web applications using the latest ES6 features and JavaScript frameworks. As I continue to expand my knowledge as a developer, I seek to create software that will have a lasting impact on the world.
  </p>
