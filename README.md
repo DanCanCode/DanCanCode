@@ -9,8 +9,10 @@ My name is Daniel, and I am a Frontend Software Engineer located in New York. I 
  </p>
  
 ## 🤝 Connect With Me
-<a href='https://www.linkedin.com/in/dancancode/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width='40px' /></a>
-<a href='https://github.com/DanCanCode/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width='40px' /></a>
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
+![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
 
 ## 🛠️ Technologies & Tools 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
